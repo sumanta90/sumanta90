@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumanta</h1>
-<h3 align="center">A passionate Backend Cloud developer having more than 5 years of experience into SaaS and Automobile Domain.</h3>
+<h3 align="center">A passionate Backend Cloud developer having more than 6 years of experience into SaaS and automotive industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanta90&label=Profile%20views&color=0e75b6&style=flat" alt="sumanta90" /> </p>
 
